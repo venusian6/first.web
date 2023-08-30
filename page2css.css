@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(196, 241, 227);
+}
+
+.home {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background-color: rgb(200, 237, 250);
+
+  margin-right: 20px;
+}
