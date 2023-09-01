@@ -313,7 +313,7 @@
     top: 0px;
   }
 }
-
+/* 
 @media screen and (min-width: 1000px) and (max-width: 1190px) and (orientation: portrait) {
   .galaxy {
     margin-top: 200px;
@@ -364,7 +364,7 @@
     padding-left: 20px;
     padding-right: 20px;
   }
-}
+} */
 
 @media screen and (min-width: 350px) and (max-width: 640px) and (orientation: landscape) {
   p {
