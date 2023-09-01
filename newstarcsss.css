@@ -594,7 +594,7 @@
 
 @media screen and (min-width: 1192px) and (max-width: 1280px) and (orientation: landscape) {
   .galaxy {
-    margin-top: 400px;
+    margin-top: 300px;
   }
   .last {
     top: 300px;
