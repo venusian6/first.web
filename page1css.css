@@ -1,0 +1,115 @@
+body {
+  background-color: rgb(229, 249, 255);
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline solid 1px rgb(0, 0, 0);
+  font-style: italic;
+}
+
+h2 {
+  justify-content: center;
+}
+
+.ull {
+  text-align: center;
+}
+
+.nav {
+  text-align: center;
+  background-color: rgb(37, 36, 36);
+  height: 50px;
+  border-radius: 10px;
+}
+
+li {
+  display: inline-block;
+  position: relative;
+  margin-right: 5px;
+  font-size: larger;
+  font-style: normal;
+  background-color: rgb(27, 31, 32);
+  border: 3px solid rgb(90, 191, 191);
+  border-radius: 20px;
+  width: 130px;
+  height: 35px;
+  top: 5px;
+}
+
+li:hover {
+  border-color: #f1ff5c;
+  color: white;
+  box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+  transform: translateY(-0.25em);
+  cursor: pointer;
+}
+
+a {
+  color: white;
+  display: inline-block;
+  font-size: 25px;
+  width: 100px;
+}
+
+.top-cloud {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.info {
+  position: relative;
+
+  text-align: center;
+}
+
+.bottom-cloud {
+  border-radius: 80%;
+  width: 250px;
+  height: 250px;
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+  font-style: italic;
+  background-color: rgb(218, 246, 255);
+  padding-right: 12%;
+  padding-left: 12%;
+  line-height: 25px;
+}
+/* 
+.contact-me {
+  word-break: keep-all;
+  text-align: justify;
+  font-size: 18px;
+  font-style: italic;
+  padding-left: 50px;
+  padding-right: 50px;
+} */
+
+.btn {
+  color: black;
+  font-size: 30px;
+}
+
+audio {
+  display: block;
+  margin-left: auto;
+
+  border: 2px solid black;
+  border-radius: 30px;
+  margin-right: auto;
+}
+
+.page {
+  text-align: center;
+  font-size: 30px;
+  text-decoration: underline;
+
+  font-family: "Times New Roman", Times, serif;
+
+  background-color: rgb(218, 246, 255);
+}
