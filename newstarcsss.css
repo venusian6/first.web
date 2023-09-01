@@ -275,7 +275,7 @@
   }
 }
 
-@media screen and (min-width: 901px) and (max-width: 1000px) and (orientation: portrait) {
+/* @media screen and (min-width: 901px) and (max-width: 1000px) and (orientation: portrait) {
   .galaxy {
     margin-top: 400px;
   }
@@ -312,7 +312,7 @@
   .btn {
     top: 0px;
   }
-}
+} */
 /* 
 @media screen and (min-width: 1000px) and (max-width: 1190px) and (orientation: portrait) {
   .galaxy {
